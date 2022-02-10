@@ -10,6 +10,7 @@ describe('NuxtLogo', () => {
   })
 })
 
+console.log("hi")
 
 
 
