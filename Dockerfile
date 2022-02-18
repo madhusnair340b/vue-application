@@ -1,5 +1,5 @@
 FROM node:16.13.2
-WORKDIR /connect.v2.bestdocapp.com
+WORKDIR /connectv2.bestdocapp.com
 COPY . .
 RUN npm install yarn 
 RUN yarn 
