@@ -17,7 +17,7 @@ export default {
   },
   server: {
     host: '0.0.0.0',//process.env.HOST,
-    port: '4001',//process.env.PORT,
+    port: '4003',//process.env.PORT,
     // default: localhost
   },
 
