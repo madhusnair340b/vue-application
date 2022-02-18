@@ -9,3 +9,4 @@ RUN yarn build
 RUN yarn cache clean
 CMD [ "yarn", "start" ]
 EXPOSE 4003
+
